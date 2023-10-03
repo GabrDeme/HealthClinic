@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi.healthclinic.manha", "webapi.healthclinic.manha.csproj", "{81BF4C69-D756-4AF7-B670-A9E1CC790C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81BF4C69-D756-4AF7-B670-A9E1CC790C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BF4C69-D756-4AF7-B670-A9E1CC790C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BF4C69-D756-4AF7-B670-A9E1CC790C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BF4C69-D756-4AF7-B670-A9E1CC790C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6A66F3-3CB0-43C2-B1C0-509AA339DADA}
+	EndGlobalSection
+EndGlobal
