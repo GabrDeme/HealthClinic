@@ -1,4 +1,4 @@
-# Health Clinic API Project
+# Health Clinic API 
 
 ## Overview
 
